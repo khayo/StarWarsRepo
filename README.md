@@ -1,6 +1,6 @@
 # Star Wars Repo
 
-![./tiefighter.png](TIE Fighter)
+![TIE Fighter](./tiefighter.png)
 
 Este repositório serve como exemplo para o curso Git e Github
 
